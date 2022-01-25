@@ -1,0 +1,23 @@
+{
+ "tokenI": "",
+ "tokenII": "",
+ "tokenIII": "",
+
+ "voiceChannel": "",
+ "WhiteList": [""],
+ "saferoles": [""],
+ "BotOwner": "823303134705090580",
+ "ServerID": "",
+ "sunucuadı": "",
+ "EverLog": "",
+ "ServerURL": "",
+
+ "mutedrole": "",
+ "diff": "2000",
+ "time": "10000",
+ "limit": "5",
+
+ "TümBotlarActivity": "",
+ "status": "",
+ "footer": ""
+}
